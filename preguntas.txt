@@ -1,0 +1,8 @@
+1.-  total de ventas
+2.- total de costos
+3.- utilidad
+4.- comportamiento de las ventas y cantidad por año y mes
+
+PRODUCTO MAS VENDIDO
+ventas por marca
+ventas por continente
